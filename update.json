@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10123,
+ "version_code": 10124,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "eba66ab38a9713bd23a68c98723242538db3f072f51a9648120337ee7bd6b81e",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka6/hongguo-tv-0.2.117-kaka6.apk",
- "release_notes": "kaka6 · 10123\n· 去掉每集开始时把视频 Surface 重置为整屏的代码（真正导致黑屏+开头掉帧的原因）\n· 起播缓冲回调到 1000ms\n· 之前：复用播放器、预取1秒、交接300ms、不盖封面/黑底、Media3 硬直通、去赞助、卡卡通道",
- "published_at": "2026-10-26T16:10:00+00:00"
+ "sha256": "ddf92f034a7810d55f0fcf2cbc585ccf2ef688fc1fd9a6c3cb6d99524bc700be",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka7/hongguo-tv-0.2.117-kaka7.apk",
+ "release_notes": "kaka7 · 10124\n· 切集黑屏：新增「最后一帧截图」叠层（PixelCopy 截当前画面，新一集首帧渲染后撤掉）\n· 弹幕：去掉文字双阴影（每帧重绘开销大），开弹幕不再那么卡\n· 保留：去掉每集开头 Surface 尺寸重置、复用播放器、预取1秒、交接300ms、Media3 硬直通、去赞助、卡卡通道",
+ "published_at": "2026-10-26T16:40:00+00:00"
 }
