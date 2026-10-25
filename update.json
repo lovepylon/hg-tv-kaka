@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10120,
- "version_name": "0.2.117-kaka3",
+ "version_code": 10121,
+ "version_name": "0.2.117-kaka4",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "84c64ba58c1f01c2da5bcb86d6edcdfc57bb676bbc403bbed49e5a2f9a0f45d2",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka3/hongguo-tv-0.2.117-kaka3.apk",
- "release_notes": "0.2.117-kaka3\n· 修：程序内更新不再要求 aston314 官方下载地址（放开为 https+apk 校验）\n· 切集优化：复用播放器/Surface，起播门槛 800ms\n· 其余同前：Media3 硬解直通、去赞助入口、卡卡更新通道",
- "published_at": "2026-10-25T15:25:00+00:00"
+ "sha256": "0e5d21c4cda3f57e247586a829b71fc0109e6806e7958b5858f45a4b647764aa",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka4/hongguo-tv-0.2.117-kaka4.apk",
+ "release_notes": "0.2.117-kaka4\n· 切集预取提前到开播 1 秒后（原来要稳定 5 秒才触发）\n· 交接等待 1200ms -> 300ms，预取没赶上时少等 0.9 秒\n· 切集不再盖剧集封面，直接保留上一帧接新画面\n· 之前：复用播放器/Surface、起播门槛 800ms、Media3 硬解直通、去赞助、卡卡通道",
+ "published_at": "2026-10-25T15:35:00+00:00"
 }
