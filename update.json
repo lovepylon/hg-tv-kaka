@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10119,
- "version_name": "0.2.117-kaka2",
+ "version_code": 10120,
+ "version_name": "0.2.117-kaka3",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "0841c353e9bd26d464e3043710a131eb8e09ddd0736a623438791bd54de77844",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka2/hongguo-tv-0.2.117-kaka3.apk",
- "release_notes": "0.2.117-kaka2\n· 切集优化：不再销毁重建播放器，保留视频 Surface\n· 起播缓冲门槛 2500ms → 800ms，回缓冲 5000ms → 1500ms\n· 其余同 kaka1（Media3 硬解直通 / 去赞助入口 / 卡卡更新通道）",
- "published_at": "2026-10-25T15:20:00+00:00"
+ "sha256": "84c64ba58c1f01c2da5bcb86d6edcdfc57bb676bbc403bbed49e5a2f9a0f45d2",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka3/hongguo-tv-0.2.117-kaka3.apk",
+ "release_notes": "0.2.117-kaka3\n· 修：程序内更新不再要求 aston314 官方下载地址（放开为 https+apk 校验）\n· 切集优化：复用播放器/Surface，起播门槛 800ms\n· 其余同前：Media3 硬解直通、去赞助入口、卡卡更新通道",
+ "published_at": "2026-10-25T15:25:00+00:00"
 }
