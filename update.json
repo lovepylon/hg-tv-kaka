@@ -1,0 +1,13 @@
+{
+ "schema": 1,
+ "variant": "standard",
+ "package_name": "rocks.aston.hongguotv",
+ "version_code": 10118,
+ "version_name": "0.2.117-kaka1",
+ "min_sdk": 23,
+ "size": 13860192,
+ "sha256": "b7754182e60cadfd6dc9a5cc96b5232f4684b5423a2ddc5f629d8ea882f30582",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka1/hongguo-tv-0.2.117-kaka2.apk",
+ "release_notes": "卡卡修改版 0.2.117-kaka1：\n· 播放直接走 Media3 硬解直通（界面保持官方原样）\n· 隐藏左侧「打赏/赞助作者」入口\n· 移除作者更新通道，改为卡卡更新通道（本通道）",
+ "published_at": "2026-10-25T15:00:00+00:00"
+}
