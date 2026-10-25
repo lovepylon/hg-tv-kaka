@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10124,
+ "version_code": 10126,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "ddf92f034a7810d55f0fcf2cbc585ccf2ef688fc1fd9a6c3cb6d99524bc700be",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka7/hongguo-tv-0.2.117-kaka7.apk",
- "release_notes": "kaka7 · 10124\n· 切集黑屏：新增「最后一帧截图」叠层（PixelCopy 截当前画面，新一集首帧渲染后撤掉）\n· 弹幕：去掉文字双阴影（每帧重绘开销大），开弹幕不再那么卡\n· 保留：去掉每集开头 Surface 尺寸重置、复用播放器、预取1秒、交接300ms、Media3 硬直通、去赞助、卡卡通道",
- "published_at": "2026-10-26T16:40:00+00:00"
+ "sha256": "2fceec94474efa59dbbcf9daaad1147774df610765220c83575ea4be08b715f0",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka8/hongguo-tv-0.2.117-kaka8.apk",
+ "release_notes": "kaka8 · 10126（稳妥版）\n· 回退导致启动崩溃的最后一帧叠层\n· 保留：去掉每集开头 Surface 尺寸重置（开头掉帧已改善）、复用播放器、预取1秒、交接300ms、弹幕去文字阴影\n· 已知：切集仍会黑一下",
+ "published_at": "2026-10-26T16:50:00+00:00"
 }
