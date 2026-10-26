@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10126,
+ "version_code": 10129,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "2fceec94474efa59dbbcf9daaad1147774df610765220c83575ea4be08b715f0",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka8/hongguo-tv-0.2.117-kaka8.apk",
- "release_notes": "kaka8 · 10126（稳妥版）\n· 回退导致启动崩溃的最后一帧叠层\n· 保留：去掉每集开头 Surface 尺寸重置（开头掉帧已改善）、复用播放器、预取1秒、交接300ms、弹幕去文字阴影\n· 已知：切集仍会黑一下",
- "published_at": "2026-10-26T16:50:00+00:00"
+ "sha256": "dc883c8bb2c37ac6dd7fa1d0bd9a8f44599dda2a2fc6c66173286f6e5aeccc5d",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka13/hongguo-tv-0.2.117-kaka13.apk",
+ "release_notes": "kaka13 · 10129\n· 首页（推荐页）关掉自动预览：上下切换只换封面/文案，不再拉流起播\n· hero 按 OK 直接进播放页播放当前推荐（和点卡片一致）\n· 沿用 kaka11：界面按 1080p 光栅化再放大到 4K（省 75% 界面像素）、去掉两处全屏 filter、两个 1 秒轮询放宽到 5 秒\n· 播放链路不变（Media3 直出 + 复用播放器 + 开头不重置 Surface）",
+ "published_at": "2026-10-26T11:25:00+00:00"
 }
