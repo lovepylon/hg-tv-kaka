@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10133,
+ "version_code": 10134,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "a3f291cdb15c931e4701b3af74bef6215d7d547ebf90a19c885c59a2ff2e6933",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka17/hongguo-tv-0.2.117-kaka17.apk",
- "release_notes": "kaka17 · 10133\n· 修「弹幕越放越卡」：撤掉 will-change（合成层回收不掉）、弹幕行改 12 秒定时强制移除、出弹间隔 700→1000ms\n· 保留 kaka16 减负：同屏 4 条、单条 32 字\n· 其余同 kaka15：封面显示、字号原大小、3/4 屏渲染、首页不自动预览",
- "published_at": "2026-10-26T14:15:00+00:00"
+ "sha256": "60831f07e333cc353cea45d7041712e4bd4eb5574f18a77f2bb0453c6b4948fc",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka18/hongguo-tv-0.2.117-kaka18.apk",
+ "release_notes": "kaka18 · 10134\n· 弹幕改「固定 6 个 span 池 + GPU 合成层」：元素只建一次，复用并重启动画\n· 有弹幕时不再触发整块网页重绘（这是之前一有弹幕就卡的根因）\n· 动画 9s→6s，与出弹节奏对齐，每条都能走完全程\n· 其余同 kaka15/kaka16：单条 32 字、封面显示、3/4 屏渲染、首页不自动预览",
+ "published_at": "2026-10-26T14:35:00+00:00"
 }
