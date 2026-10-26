@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10135,
+ "version_code": 10136,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "d60e05ad45a3bdcb3a6e5c4ff661b47be388e532d0564e6867a279667751da50",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka19/hongguo-tv-0.2.117-kaka19.apk",
- "release_notes": "kaka19 · 10135\n· 弹幕位移改 steps(60)：每秒只更新 10 次，浏览器出图频率从 60/s 降到 10/s（6 倍）\n· 弹幕会略显跳跃，但视频流畅度应该能保住\n· 保留：固定 6 元素池 + 合成层、单条 32 字、封面、3/4 屏渲染、首页不自动预览",
- "published_at": "2026-10-26T14:50:00+00:00"
+ "sha256": "e113477df24dfc2a52be53f4f86225df04e79bdb8d603a1c6600fb8c6a00ac02",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka20/hongguo-tv-0.2.117-kaka20.apk",
+ "release_notes": "kaka20 · 10136\n· 弹幕改成静态弹出：屏幕上方 1/3 随机位置出现，静止 2 秒后消失（完全无动画）\n· 针对「一出现弹幕就卡」：不再有任何持续动画，每秒只有两次小面积重绘\n· 加了文字阴影提升可读性\n· 其余同前：封面显示、字号原大小、3/4 屏渲染、首页不自动预览",
+ "published_at": "2026-10-26T15:40:00+00:00"
 }
