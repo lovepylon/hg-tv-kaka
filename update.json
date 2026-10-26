@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10132,
+ "version_code": 10133,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "b83a65cdc3199fcdbacd40570aea67287e3f34de163a485653e9ebf3a787c790",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka16/hongguo-tv-0.2.117-kaka16.apk",
- "release_notes": "kaka16 · 10132\n· 弹幕减负：同屏 8→4 条、单条 120→32 字、弹幕行提升为合成层（will-change）\n· 目的：播放时每帧重绘面积降到约 1/10，弹幕开着也能保持播放流畅\n· 其余同 kaka15：封面显示、字号原大小、界面 3/4 屏渲染、首页不自动预览、按 OK 进播放页",
- "published_at": "2026-10-26T12:20:00+00:00"
+ "sha256": "a3f291cdb15c931e4701b3af74bef6215d7d547ebf90a19c885c59a2ff2e6933",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka17/hongguo-tv-0.2.117-kaka17.apk",
+ "release_notes": "kaka17 · 10133\n· 修「弹幕越放越卡」：撤掉 will-change（合成层回收不掉）、弹幕行改 12 秒定时强制移除、出弹间隔 700→1000ms\n· 保留 kaka16 减负：同屏 4 条、单条 32 字\n· 其余同 kaka15：封面显示、字号原大小、3/4 屏渲染、首页不自动预览",
+ "published_at": "2026-10-26T14:15:00+00:00"
 }
