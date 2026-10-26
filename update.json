@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10134,
+ "version_code": 10135,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "60831f07e333cc353cea45d7041712e4bd4eb5574f18a77f2bb0453c6b4948fc",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka18/hongguo-tv-0.2.117-kaka18.apk",
- "release_notes": "kaka18 · 10134\n· 弹幕改「固定 6 个 span 池 + GPU 合成层」：元素只建一次，复用并重启动画\n· 有弹幕时不再触发整块网页重绘（这是之前一有弹幕就卡的根因）\n· 动画 9s→6s，与出弹节奏对齐，每条都能走完全程\n· 其余同 kaka15/kaka16：单条 32 字、封面显示、3/4 屏渲染、首页不自动预览",
- "published_at": "2026-10-26T14:35:00+00:00"
+ "sha256": "d60e05ad45a3bdcb3a6e5c4ff661b47be388e532d0564e6867a279667751da50",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka19/hongguo-tv-0.2.117-kaka19.apk",
+ "release_notes": "kaka19 · 10135\n· 弹幕位移改 steps(60)：每秒只更新 10 次，浏览器出图频率从 60/s 降到 10/s（6 倍）\n· 弹幕会略显跳跃，但视频流畅度应该能保住\n· 保留：固定 6 元素池 + 合成层、单条 32 字、封面、3/4 屏渲染、首页不自动预览",
+ "published_at": "2026-10-26T14:50:00+00:00"
 }
