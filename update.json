@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10130,
+ "version_code": 10131,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "33377d6d557e17d36baa6d8e3d6d4da5230c47a1ea965ae91a234b30f2dbf2d8",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka14/hongguo-tv-0.2.117-kaka14.apk",
- "release_notes": "kaka14 · 10130\n· 字号恢复原大小 + 清晰度提升：viewport 回到原始布局宽度 1280，界面光栅化从 1/2 屏 → 3/4 屏(2880×1620，放大 1.33×)，仍省 44% 像素\n· 修「首页按 OK 提示播放被阻止」：不再依赖 video.src 判断，改为按页面模式直接进播放页\n· 保留：首页不自动预览、Media3 直出、复用播放器、开头不重置 Surface",
- "published_at": "2026-10-26T11:40:00+00:00"
+ "sha256": "65944f61c13168b7ca0d5c1c775be32004eb08b003036101b37b5b029dcb2e0b",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka15/hongguo-tv-0.2.117-kaka15.apk",
+ "release_notes": "kaka15 · 10131\n· 首页不自动播放时，hero 显示该剧封面（App 自带 preparing 态：全屏封面底图 + 完整海报居中 + 标题/简介/集数）\n· 保留：字号原大小、界面 3/4 屏渲染、首页按 OK 进播放页、首页不自动预览、Media3 直出、复用播放器",
+ "published_at": "2026-10-26T11:48:00+00:00"
 }
