@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10129,
+ "version_code": 10130,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "dc883c8bb2c37ac6dd7fa1d0bd9a8f44599dda2a2fc6c66173286f6e5aeccc5d",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka13/hongguo-tv-0.2.117-kaka13.apk",
- "release_notes": "kaka13 · 10129\n· 首页（推荐页）关掉自动预览：上下切换只换封面/文案，不再拉流起播\n· hero 按 OK 直接进播放页播放当前推荐（和点卡片一致）\n· 沿用 kaka11：界面按 1080p 光栅化再放大到 4K（省 75% 界面像素）、去掉两处全屏 filter、两个 1 秒轮询放宽到 5 秒\n· 播放链路不变（Media3 直出 + 复用播放器 + 开头不重置 Surface）",
- "published_at": "2026-10-26T11:25:00+00:00"
+ "sha256": "33377d6d557e17d36baa6d8e3d6d4da5230c47a1ea965ae91a234b30f2dbf2d8",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka14/hongguo-tv-0.2.117-kaka14.apk",
+ "release_notes": "kaka14 · 10130\n· 字号恢复原大小 + 清晰度提升：viewport 回到原始布局宽度 1280，界面光栅化从 1/2 屏 → 3/4 屏(2880×1620，放大 1.33×)，仍省 44% 像素\n· 修「首页按 OK 提示播放被阻止」：不再依赖 video.src 判断，改为按页面模式直接进播放页\n· 保留：首页不自动预览、Media3 直出、复用播放器、开头不重置 Surface",
+ "published_at": "2026-10-26T11:40:00+00:00"
 }
