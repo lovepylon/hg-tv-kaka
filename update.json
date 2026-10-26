@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10131,
+ "version_code": 10132,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "65944f61c13168b7ca0d5c1c775be32004eb08b003036101b37b5b029dcb2e0b",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka15/hongguo-tv-0.2.117-kaka15.apk",
- "release_notes": "kaka15 · 10131\n· 首页不自动播放时，hero 显示该剧封面（App 自带 preparing 态：全屏封面底图 + 完整海报居中 + 标题/简介/集数）\n· 保留：字号原大小、界面 3/4 屏渲染、首页按 OK 进播放页、首页不自动预览、Media3 直出、复用播放器",
- "published_at": "2026-10-26T11:48:00+00:00"
+ "sha256": "b83a65cdc3199fcdbacd40570aea67287e3f34de163a485653e9ebf3a787c790",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka16/hongguo-tv-0.2.117-kaka16.apk",
+ "release_notes": "kaka16 · 10132\n· 弹幕减负：同屏 8→4 条、单条 120→32 字、弹幕行提升为合成层（will-change）\n· 目的：播放时每帧重绘面积降到约 1/10，弹幕开着也能保持播放流畅\n· 其余同 kaka15：封面显示、字号原大小、界面 3/4 屏渲染、首页不自动预览、按 OK 进播放页",
+ "published_at": "2026-10-26T12:20:00+00:00"
 }
