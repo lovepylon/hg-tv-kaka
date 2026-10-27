@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10145,
+ "version_code": 10146,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "f9c1f715ee448ea1d8491cd4bbba2bd57f0aea391a8ccf4ad15b6f08f6f1fd91",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka29/hongguo-tv-0.2.117-kaka29.apk",
- "release_notes": "kaka29 · 10145\n· 播放失败：前 5 次静默自动重试（不打扰），第 6 次仍失败才弹「重试播放」框\n· 弹幕：上方 1/4、停 4 秒、瞬时消失\n· 其余同 kaka21（含切集提速）",
- "published_at": "2026-10-27T14:35:00+00:00"
+ "sha256": "832974697070d55a3dd0279d6f1e19c39e850d8f9d631cd9229fa82491b3649f",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka30/hongguo-tv-0.2.117-kaka30.apk",
+ "release_notes": "kaka30 · 10146\n· 修「提示框瞬间弹出」：现在所有失败路径都会先静默重试，5 次用完才弹手动重试框\n· 弹幕：上方 1/4、停 4 秒、瞬时消失；其余同 kaka21",
+ "published_at": "2026-10-27T14:50:00+00:00"
 }
