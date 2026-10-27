@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10150,
+ "version_code": 10151,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "7c0e1cc828e022eb8be48c96ef98d359f336e1020f6227f95513681ff5a5f0cc",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka34/hongguo-tv-0.2.117-kaka34.apk",
- "release_notes": "kaka34 · 10150\n· 竖屏切集：不再走「抓上一集最后一帧」，改为直接显示该集封面（和横屏一致，去掉那一下闪黑）\n· 其余同 kaka33",
- "published_at": "2026-10-27T15:40:00+00:00"
+ "sha256": "e482f66b77f41ec5ea9885798c7e40e36986b0f0cdfc133b1433641e1629a1ec",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka35/hongguo-tv-0.2.117-kaka35.apk",
+ "release_notes": "kaka35 · 10151\n· 播放失败改为无限重试，永不弹对话框\n· 彻底关掉「上一集最后一帧」图层，消除最后一帧与封面来回闪\n· 其余同 kaka34/33/32",
+ "published_at": "2026-10-27T15:50:00+00:00"
 }
