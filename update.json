@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10153,
- "version_name": "0.2.117",
+ "version_code": 10154,
+ "version_name": "0.2.126",
  "min_sdk": 23,
- "size": 13860192,
- "sha256": "c9dc1b267c5a41763c372fe5d0245d5e0e2391142afc979977ffb8d821ed974f",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka37/hongguo-tv-0.2.117-kaka37.apk",
- "release_notes": "kaka37 · 10153（修 kaka35/36 的「播放被设备阻止」）\n· 撤回「失败面板静默」：那会把加载层一直压在视频上，导致播放起不来、按确认键被拒\n· 保留：无限重试（每 2 秒一次）、最后一帧图层永久隐藏\n· 其余同 kaka34",
- "published_at": "2026-10-28T16:10:00+00:00"
+ "size": 13888864,
+ "sha256": "bdd58ed6c3af819c09f302894231c1ccad465d0713bd23c7120446c15e43ee72",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.126-kaka1/hongguo-tv-0.2.126-kaka1.apk",
+ "release_notes": "0.2.126-kaka1 · 10154\n· 官方基线升级到 0.2.126\n· 弹幕：屏幕上方 1/4、停 4 秒、瞬时消失（零动画）\n· 整屏 WebView（不再用 3/4+放大 hack，暂停/加载叠层能全屏）\n· 竖屏切集直接显示本集封面（不抓上一帧、不闪黑）\n· 失败自动重试 5 次（每 2 秒一次），之后照常弹手动重试框\n· 首页不自动预览；去两处全屏滤镜\n· 播放内核保持官方（不复用播放器、不改缓冲）",
+ "published_at": "2026-10-28T16:35:00+00:00"
 }
