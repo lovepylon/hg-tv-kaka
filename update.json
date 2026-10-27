@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10151,
+ "version_code": 10152,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "e482f66b77f41ec5ea9885798c7e40e36986b0f0cdfc133b1433641e1629a1ec",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka35/hongguo-tv-0.2.117-kaka35.apk",
- "release_notes": "kaka35 · 10151\n· 播放失败改为无限重试，永不弹对话框\n· 彻底关掉「上一集最后一帧」图层，消除最后一帧与封面来回闪\n· 其余同 kaka34/33/32",
- "published_at": "2026-10-27T15:50:00+00:00"
+ "sha256": "d0d11167349329ca993426d84c850770969b655f4914e631b81d1f72e3356035",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka36/hongguo-tv-0.2.117-kaka36.apk",
+ "release_notes": "kaka36 · 10152\n· 自动重试改为每 2 秒一次（修「播放被设备阻止，请再次确认」——之前是连环重试把播放请求打爆）\n· 仍然是无限重试、不弹对话框\n· 其余同 kaka35",
+ "published_at": "2026-10-28T16:05:00+00:00"
 }
