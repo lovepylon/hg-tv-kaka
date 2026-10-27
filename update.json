@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10141,
+ "version_code": 10142,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "b8cb12a26995af558b36e3892fe7f35695a9cfee1df15d3450a9f4828e55877d",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka25/hongguo-tv-0.2.117-kaka25.apk",
- "release_notes": "kaka25 · 10141\n· 播放出错自动重试 1 次 → 5 次（等于自动帮你点「重试播放」）\n· 弹幕瞬时消失（无淡化），位置上方 1/4、停 4 秒\n· 切集提速已改回官方值（预取 5s 门槛、交接 1.2s）\n· 其余同前：封面显示、字号原大小、3/4 屏渲染、首页不自动预览",
- "published_at": "2026-10-27T13:45:00+00:00"
+ "sha256": "8b56dab52690dc4c0e8eacb50283ad22a39547add929ca127cf7ff47eaf13095",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka26/hongguo-tv-0.2.117-kaka26.apk",
+ "release_notes": "kaka26 · 10142（排查「无法播放」）\n· 把播放内核相关改动全部退回官方：恢复播放器每集重建、恢复 Surface 布局、恢复官方缓冲参数、引擎选择恢复默认（先 HTML5 再 Media3）\n· 保留：弹幕（上方 1/4·4 秒·瞬时消失）、3/4 屏渲染、封面显示、首页不自动预览、去滤镜\n· 代价：切集可能回到「慢半秒 + 黑一下」",
+ "published_at": "2026-10-27T14:05:00+00:00"
 }
