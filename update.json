@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10140,
+ "version_code": 10141,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "6ae67eead6091ea96a5ef21a1a90d5916d9a36152b5bfb0997093ea3c2d0a94c",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka24/hongguo-tv-0.2.117-kaka24.apk",
- "release_notes": "kaka24 · 10140\n· 弹幕改回瞬时消失（去掉淡入淡出），位置仍是上方 1/4、停留 4 秒\n· 排查「切集加载失败」：把两处切集提速改回官方值（预取门槛 1s→5s、交接等待 300ms→1200ms）\n· 其余同前：封面显示、字号原大小、3/4 屏渲染、首页不自动预览",
- "published_at": "2026-10-27T13:25:00+00:00"
+ "sha256": "b8cb12a26995af558b36e3892fe7f35695a9cfee1df15d3450a9f4828e55877d",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka25/hongguo-tv-0.2.117-kaka25.apk",
+ "release_notes": "kaka25 · 10141\n· 播放出错自动重试 1 次 → 5 次（等于自动帮你点「重试播放」）\n· 弹幕瞬时消失（无淡化），位置上方 1/4、停 4 秒\n· 切集提速已改回官方值（预取 5s 门槛、交接 1.2s）\n· 其余同前：封面显示、字号原大小、3/4 屏渲染、首页不自动预览",
+ "published_at": "2026-10-27T13:45:00+00:00"
 }
