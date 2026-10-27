@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10142,
+ "version_code": 10143,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "8b56dab52690dc4c0e8eacb50283ad22a39547add929ca127cf7ff47eaf13095",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka26/hongguo-tv-0.2.117-kaka26.apk",
- "release_notes": "kaka26 · 10142（排查「无法播放」）\n· 把播放内核相关改动全部退回官方：恢复播放器每集重建、恢复 Surface 布局、恢复官方缓冲参数、引擎选择恢复默认（先 HTML5 再 Media3）\n· 保留：弹幕（上方 1/4·4 秒·瞬时消失）、3/4 屏渲染、封面显示、首页不自动预览、去滤镜\n· 代价：切集可能回到「慢半秒 + 黑一下」",
- "published_at": "2026-10-27T14:05:00+00:00"
+ "sha256": "c38418f90d02b96ec5dd7bc3b24ebd872b5e171c92831118ae69e1a901f9e806",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka27/hongguo-tv-0.2.117-kaka27.apk",
+ "release_notes": "kaka27 · 10143（= kaka21 的内容，修好 dex）\n· 弹幕：屏幕上方 1/4、停 4 秒、瞬时消失（无淡化）\n· 播放内核/缓冲/预取：恢复成 kaka21 那套（含切集提速）\n· 无自动重试、无淡化、无内核退版\n· 只把 dex 版本修回 035（kaka21 当时是 040，会闪退）",
+ "published_at": "2026-10-27T14:15:00+00:00"
 }
