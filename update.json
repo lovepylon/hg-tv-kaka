@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10137,
+ "version_code": 10138,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "5ba48d8157f2b0bfac0266432024ba0ce0b5269cbade51608caa3f108d1a44a5",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka21/hongguo-tv-0.2.117-kaka21.apk",
- "release_notes": "kaka21 · 10137\n· 弹幕位置改到屏幕上方 1/4 区域（原来是最上方 1/3）\n· 弹幕停留时间 2 秒 → 4 秒后消失\n· 仍然零动画（静态出现/消失），不会因弹幕卡播放\n· 其余同前：封面显示、字号原大小、3/4 屏渲染、首页不自动预览",
- "published_at": "2026-10-27T11:45:00+00:00"
+ "sha256": "ee4573c6d95b792e3dd218b8691b76617bc476cdc3e5f8c1a28dae5166e3b255",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka22/hongguo-tv-0.2.117-kaka22.apk",
+ "release_notes": "kaka22 · 10138\n· 弹幕改为淡化消失（0.3 秒 opacity 过渡），出现时也轻微淡入\n· 位置：屏幕上方 1/4 区域；停留 4 秒\n· 只有 CSS opacity 过渡，没有位移/没有 will-change，开销很小\n· 其余同前：封面显示、字号原大小、3/4 屏渲染、首页不自动预览",
+ "published_at": "2026-10-27T11:50:00+00:00"
 }
