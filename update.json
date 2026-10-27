@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10146,
+ "version_code": 10147,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "832974697070d55a3dd0279d6f1e19c39e850d8f9d631cd9229fa82491b3649f",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka30/hongguo-tv-0.2.117-kaka30.apk",
- "release_notes": "kaka30 · 10146\n· 修「提示框瞬间弹出」：现在所有失败路径都会先静默重试，5 次用完才弹手动重试框\n· 弹幕：上方 1/4、停 4 秒、瞬时消失；其余同 kaka21",
- "published_at": "2026-10-27T14:50:00+00:00"
+ "sha256": "a66a4e592247c97b76ab87b42ab06d0b4b4e88bb58971a59ab41a0dc5c96d327",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka31/hongguo-tv-0.2.117-kaka31.apk",
+ "release_notes": "kaka31 · 10147（修 kaka30 启动失败）\n· kaka30 改注释时截断导致 JS 语法错误、App 起不来，已修（并加了语法校验）\n· 所有失败路径先静默重试，5 次用完才弹手动重试框\n· 弹幕：上方 1/4、停 4 秒、瞬时消失；其余同 kaka21",
+ "published_at": "2026-10-27T15:00:00+00:00"
 }
