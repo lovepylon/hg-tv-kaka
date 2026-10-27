@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10148,
+ "version_code": 10149,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "dff40b386b328d6cd17507c4b192a4e94e4d30ce47c3a8d56ba5fca05f39bebf",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka32/hongguo-tv-0.2.117-kaka32.apk",
- "release_notes": "kaka32 · 10148\n· 去掉「WebView 缩到 3/4 再放大」的几何 hack，改回整屏 WebView（修横屏暂停/加载文字只占左上角 3/4 的问题）\n· 省渲染仍靠 viewport=1280 由 Chrome 自行缩放，视觉大小不变、更清晰一点\n· 其余同 kaka31：失败静默重试 5 次、弹幕上方 1/4·4 秒·瞬时消失",
- "published_at": "2026-10-27T15:20:00+00:00"
+ "sha256": "50f0b25f563616d2e1f0db3431410828f7b4d3d154d90dc2835c72b3f369a213",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka33/hongguo-tv-0.2.117-kaka33.apk",
+ "release_notes": "kaka33 · 10149\n· 修「竖屏短剧切集黑屏」：恢复官方封面/海报逻辑（切集加载时显示短剧封面，而不是纯黑）\n· 仍保留：弹幕上方 1/4·4 秒·瞬时消失、失败静默重试 5 次、整屏 WebView（kaka32）",
+ "published_at": "2026-10-27T15:30:00+00:00"
 }
