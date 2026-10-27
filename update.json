@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10152,
+ "version_code": 10153,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "d0d11167349329ca993426d84c850770969b655f4914e631b81d1f72e3356035",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka36/hongguo-tv-0.2.117-kaka36.apk",
- "release_notes": "kaka36 · 10152\n· 自动重试改为每 2 秒一次（修「播放被设备阻止，请再次确认」——之前是连环重试把播放请求打爆）\n· 仍然是无限重试、不弹对话框\n· 其余同 kaka35",
- "published_at": "2026-10-28T16:05:00+00:00"
+ "sha256": "c9dc1b267c5a41763c372fe5d0245d5e0e2391142afc979977ffb8d821ed974f",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka37/hongguo-tv-0.2.117-kaka37.apk",
+ "release_notes": "kaka37 · 10153（修 kaka35/36 的「播放被设备阻止」）\n· 撤回「失败面板静默」：那会把加载层一直压在视频上，导致播放起不来、按确认键被拒\n· 保留：无限重试（每 2 秒一次）、最后一帧图层永久隐藏\n· 其余同 kaka34",
+ "published_at": "2026-10-28T16:10:00+00:00"
 }
