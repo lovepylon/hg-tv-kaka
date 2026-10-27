@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10149,
+ "version_code": 10150,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "50f0b25f563616d2e1f0db3431410828f7b4d3d154d90dc2835c72b3f369a213",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka33/hongguo-tv-0.2.117-kaka33.apk",
- "release_notes": "kaka33 · 10149\n· 修「竖屏短剧切集黑屏」：恢复官方封面/海报逻辑（切集加载时显示短剧封面，而不是纯黑）\n· 仍保留：弹幕上方 1/4·4 秒·瞬时消失、失败静默重试 5 次、整屏 WebView（kaka32）",
- "published_at": "2026-10-27T15:30:00+00:00"
+ "sha256": "7c0e1cc828e022eb8be48c96ef98d359f336e1020f6227f95513681ff5a5f0cc",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka34/hongguo-tv-0.2.117-kaka34.apk",
+ "release_notes": "kaka34 · 10150\n· 竖屏切集：不再走「抓上一集最后一帧」，改为直接显示该集封面（和横屏一致，去掉那一下闪黑）\n· 其余同 kaka33",
+ "published_at": "2026-10-27T15:40:00+00:00"
 }
