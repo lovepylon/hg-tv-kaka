@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10143,
+ "version_code": 10144,
  "version_name": "0.2.117",
  "min_sdk": 23,
  "size": 13860192,
- "sha256": "c38418f90d02b96ec5dd7bc3b24ebd872b5e171c92831118ae69e1a901f9e806",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka27/hongguo-tv-0.2.117-kaka27.apk",
- "release_notes": "kaka27 · 10143（= kaka21 的内容，修好 dex）\n· 弹幕：屏幕上方 1/4、停 4 秒、瞬时消失（无淡化）\n· 播放内核/缓冲/预取：恢复成 kaka21 那套（含切集提速）\n· 无自动重试、无淡化、无内核退版\n· 只把 dex 版本修回 035（kaka21 当时是 040，会闪退）",
- "published_at": "2026-10-27T14:15:00+00:00"
+ "sha256": "d19f8680126f6ba7b4a3042e5380827e9b969cb2969b98f22a8298e4a27aa160",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.117-kaka28/hongguo-tv-0.2.117-kaka28.apk",
+ "release_notes": "kaka28 · 10144\n· 播放失败改为静默自动重试，最多 5 次；不再弹「无法播放/重试播放」失败面板\n· 弹幕：上方 1/4、停 4 秒、瞬时消失\n· 其余同 kaka21（含切集提速）",
+ "published_at": "2026-10-27T14:30:00+00:00"
 }
