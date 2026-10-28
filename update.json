@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10158,
+ "version_code": 10159,
  "version_name": "0.2.126",
  "min_sdk": 23,
  "size": 13888864,
- "sha256": "b3981c55b255d326ee64426551afc3056bd6fbab23e4d740c7ee009cda6c81b4",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.126-kaka5/hongguo-tv-0.2.126-kaka5.apk",
- "release_notes": "0.2.126-kaka5 · 10158\n· 修复程序内检查更新（下载地址校验整体放行，gh-proxy 也能过）\n· 恢复 range 分段播放\n· 默认向服务端请求 720P（有则用，无则回退 1080P）",
- "published_at": "2026-10-29T01:10:00+00:00"
+ "sha256": "2ec20c7eacfa72fd0b7a044bd8aa5f620d2f50775e195cac4af1a14a01f22cd3",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.126-kaka6/hongguo-tv-0.2.126-kaka6.apk",
+ "release_notes": "0.2.126-kaka6 · 10159\n· 程序内更新：下载地址校验、安装包版本/签名校验全部放行\n· range 分段播放（与 kaka3 一致）\n· 默认请求 720P",
+ "published_at": "2026-10-29T01:16:00+00:00"
 }
