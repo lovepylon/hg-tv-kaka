@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10165,
- "version_name": "0.2.126",
+ "version_code": 10166,
+ "version_name": "0.2.131",
  "min_sdk": 23,
- "size": 13888864,
- "sha256": "0a6c2d80b326e8f6db3ac8377b04b28a4cd74c3c91d0531dbf1e7d0fc9823188",
- "download_url": "https://gh-proxy.org/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.126-kaka12/hongguo-tv-0.2.126-kaka12.apk",
- "release_notes": "0.2.126-kaka12 · 10165\n· 去掉左侧「打赏」按钮\n· 本集没有 720P 时，播放后提示「本集没有720P，已用XXX播放」\n· 其余同 kaka11（推荐页点封面进播放页、更新线路 gh-proxy.org 优先）",
- "published_at": "2026-10-29T15:40:00+00:00"
+ "size": 13913440,
+ "sha256": "c387f4f1da99a715e57a9862089d4f2ed50cb2bdcf5f76aba9d17ec6171b9d32",
+ "download_url": "https://gh-proxy.org/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.131-kaka13/hongguo-tv-0.2.131-kaka13.apk",
+ "release_notes": "0.2.131-kaka13 · 10166\n· 基线升级到官方 0.2.131\n· 沿用全部改造：整屏 1280 版面 / 弹幕静止固定池 / 首页不自动预览 / 切集不抓上一帧 / 失败重试 5×2s / 默认 720P\n· 推荐页点封面直接进播放页；无 720P 时提示已用其它清晰度\n· 去掉左侧「打赏」按钮\n· 程序内更新：指向自建仓库、放行安装校验、下载线路 gh-proxy.org 优先、版本比较用自身版本号",
+ "published_at": "2026-10-29T15:55:00+00:00"
 }
