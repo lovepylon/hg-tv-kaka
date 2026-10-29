@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10164,
+ "version_code": 10165,
  "version_name": "0.2.126",
  "min_sdk": 23,
  "size": 13888864,
- "sha256": "9a87d942562817568863ec6d83cd42de156047a42a167d3995f2fc36e88560fc",
- "download_url": "https://gh-proxy.org/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.126-kaka11/hongguo-tv-0.2.126-kaka11.apk",
- "release_notes": "0.2.126-kaka11 · 10164\n· 推荐页点封面：直接进入播放页播放（不再让网页 inline 播那个 WebView 播不了的流）\n· 程序内更新：下载线路顺序改为 gh-proxy.org 优先（减少首次下载失败）\n· 其余同 kaka9（版本比较阈值、播放逻辑同 kaka6）",
- "published_at": "2026-10-29T14:50:00+00:00"
+ "sha256": "0a6c2d80b326e8f6db3ac8377b04b28a4cd74c3c91d0531dbf1e7d0fc9823188",
+ "download_url": "https://gh-proxy.org/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.126-kaka12/hongguo-tv-0.2.126-kaka12.apk",
+ "release_notes": "0.2.126-kaka12 · 10165\n· 去掉左侧「打赏」按钮\n· 本集没有 720P 时，播放后提示「本集没有720P，已用XXX播放」\n· 其余同 kaka11（推荐页点封面进播放页、更新线路 gh-proxy.org 优先）",
+ "published_at": "2026-10-29T15:40:00+00:00"
 }
