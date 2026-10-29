@@ -7,7 +7,7 @@
  "min_sdk": 23,
  "size": 13913440,
  "sha256": "c387f4f1da99a715e57a9862089d4f2ed50cb2bdcf5f76aba9d17ec6171b9d32",
- "download_url": "https://gh-proxy.org/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.131-kaka13/hongguo-tv-0.2.131-kaka13.apk",
- "release_notes": "0.2.131-kaka13 · 10166\n· 基线升级到官方 0.2.131\n· 沿用全部改造：整屏 1280 版面 / 弹幕静止固定池 / 首页不自动预览 / 切集不抓上一帧 / 失败重试 5×2s / 默认 720P\n· 推荐页点封面直接进播放页；无 720P 时提示已用其它清晰度\n· 去掉左侧「打赏」按钮\n· 程序内更新：指向自建仓库、放行安装校验、下载线路 gh-proxy.org 优先、版本比较用自身版本号",
- "published_at": "2026-10-29T15:55:00+00:00"
+ "download_url": "https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.131/hongguo-tv-0.2.131.apk",
+ "release_notes": "0.2.131 · 10166（kaka13）\n· 基线：官方 0.2.131\n· 整屏 1280 版面 / 弹幕静止固定池 / 首页不自动预览 / 切集不抓上一帧 / 失败重试 5×2s / 默认 720P\n· 推荐页点封面直接进播放页；无 720P 时提示已用其它清晰度\n· 去掉左侧「打赏」按钮\n· 程序内更新指向自建仓库（下载地址按官方命名规则）",
+ "published_at": "2026-10-29T16:10:00+00:00"
 }
