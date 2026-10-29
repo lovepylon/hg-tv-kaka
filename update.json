@@ -2,12 +2,12 @@
  "schema": 1,
  "variant": "standard",
  "package_name": "rocks.aston.hongguotv",
- "version_code": 10161,
+ "version_code": 10162,
  "version_name": "0.2.126",
  "min_sdk": 23,
  "size": 13888864,
- "sha256": "fb00cff9460dab0da9e0c3a5653efcd4635dea231056335aa1c48d92c8121823",
- "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.126-kaka8/hongguo-tv-0.2.126-kaka8.apk",
- "release_notes": "0.2.126-kaka8 · 10161\n· 回退 kaka7 的界面半分辨率实验（它把视频挤到左上角 1/4）\n· 等同 kaka6 的播放/界面表现，仅版本号 +1 以便覆盖安装",
- "published_at": "2026-10-29T10:35:00+00:00"
+ "sha256": "1b373ce89fa32dcd15b4df79408726fa555192d9ae37acc0dfdafbcd5fd60ae0",
+ "download_url": "https://gh-proxy.com/https://github.com/lovepylon/hg-tv-kaka/releases/download/v0.2.126-kaka9/hongguo-tv-0.2.126-kaka9.apk",
+ "release_notes": "0.2.126-kaka9 · 10162\n· 修「已是最新还提示更新」：把版本比较阈值从写死的 125 改为本包版本号\n· 其余同 kaka8（= kaka6 的播放表现）",
+ "published_at": "2026-10-29T11:00:00+00:00"
 }
